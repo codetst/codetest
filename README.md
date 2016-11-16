@@ -1,4 +1,4 @@
-A. A robot which can move down and right is traversing some terrain that can be represented as a hex grid. Find the least cost path from top left to bottom right through such a grid. Return the path for the robot to follow.
+A. A robot which can move down and right is traversing some terrain that can be represented as a hex grid. Find the least cost path from top left to bottom right through such a grid. Return the path for the robot to follow
 
 Sample input
 46B E59  EA C1F 45E  63
